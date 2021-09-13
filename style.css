@@ -14,8 +14,11 @@ footer{
     color: white !important;
 }
 
-.card:hover .card-img-top{
+.image{
+    overflow: hidden;
+}
+.image:hover img{
     transition: all 1s;
-    transform: scale(1.2);
+    transform: scale(1.5);
   
 }
