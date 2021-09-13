@@ -1,0 +1,21 @@
+.custom-header{
+    background-color: #131921;
+}
+
+.custom-img{
+
+    height: 520px;
+}
+.card img{
+    height: 200px;
+}
+footer{
+    background-color: #131921;
+    color: white !important;
+}
+
+.card:hover .card-img-top{
+    transition: all 1s;
+    transform: scale(1.2);
+  
+}
